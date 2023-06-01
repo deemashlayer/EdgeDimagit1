@@ -1,0 +1,16 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeDimagit1
+  gitServerName: dimagit
+  gitUrl: https://github.com/deemashlayer/EdgeDimagit1
+  gitUsername: deemashlayer
+  gitToken: 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
+  gitBranch: master
+- name: CommonUtils
+  gitServerName: DimaGit
+  gitUrl: https://github.com/deemashlayer
+  gitUsername: deemashlayer
+  gitToken: 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
+  gitTag: 2.0.0
